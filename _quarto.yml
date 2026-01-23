@@ -1,20 +1,17 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "inthedetails"
+  title: "In the Details"
   navbar:
     right:
-      - about.qmd
       - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/zajichek/inthedetails
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      - lux
     css: styles.css
 
 
