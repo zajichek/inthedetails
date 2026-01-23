@@ -3,7 +3,7 @@ title: "Great songs and why"
 listing:
   contents: posts
   sort: "date desc"
-  type: default
+  type: table
   categories: true
   sort-ui: true
   filter-ui: true
