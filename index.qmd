@@ -2,13 +2,14 @@
 title: "Great songs and why"
 listing:
   contents: posts
-  sort: "date desc"
+  sort: "author"
   type: table
   categories: true
   sort-ui: true
   filter-ui: true
+  fields: [title, author, date]
 page-layout: full
 title-block-banner: false
 ---
 
-
+_Click a song title for details_

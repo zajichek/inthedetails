@@ -1,1 +1,47 @@
 /* css styles */
+.quarto-listing-table thead th:nth-child(3) {
+  position: relative;
+}
+
+/* Hide original label text but keep layout + sort icon */
+.quarto-listing-table thead th:nth-child(3) a,
+.quarto-listing-table thead th:nth-child(3) span {
+  visibility: hidden;
+}
+
+/* Replacement header label */
+.quarto-listing-table thead th:nth-child(3)::after {
+  content: "Added";
+  position: absolute;
+  left: 1.35rem;              /* matches Lux table padding */
+  top: 50%;
+  transform: translateY(-50%);
+  font-weight: inherit;
+  font-size: inherit;
+  color: inherit;
+  pointer-events: none;
+}
+
+
+.quarto-listing-table thead th:nth-child(2) {
+  position: relative;
+}
+
+/* Hide original label text but keep layout + sort icon */
+.quarto-listing-table thead th:nth-child(2) a,
+.quarto-listing-table thead th:nth-child(2) span {
+  visibility: hidden;
+}
+
+/* Replacement header label */
+.quarto-listing-table thead th:nth-child(2)::after {
+  content: "Artist";
+  position: absolute;
+  left: 1.35rem;              /* matches Lux table padding */
+  top: 50%;
+  transform: translateY(-50%);
+  font-weight: inherit;
+  font-size: inherit;
+  color: inherit;
+  pointer-events: none;
+}
