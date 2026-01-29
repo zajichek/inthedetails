@@ -1,0 +1,15 @@
+---
+title: "Jireh / How He Loves / Worthy"
+author: "Justin Bieber / Elevation Worship / Maverick City"
+date: "2026-01-29"
+categories:
+    - Justin Bieber
+    - Elevation Worship
+    - Maverick City
+---
+
+{{< video https://www.youtube.com/embed/M11PBJbFApw >}}
+
+{{< video https://www.youtube.com/embed/8tllFmO5zhs >}}
+
+{{< video https://www.youtube.com/embed/mC-zw0zCCtg >}}

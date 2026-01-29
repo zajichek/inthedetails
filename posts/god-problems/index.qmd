@@ -1,0 +1,8 @@
+---
+title: "God Problems"
+author: "Maverick City"
+date: "2026-01-29"
+categories: Maverick City
+---
+
+{{< video https://www.youtube.com/embed/TD6wY8v8C-g >}}
