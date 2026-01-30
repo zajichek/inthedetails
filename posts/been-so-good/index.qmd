@@ -6,3 +6,5 @@ categories: Elevation Worship
 ---
 
 {{< video https://www.youtube.com/embed/D3yMC_qoAes >}}
+
+Guitar part in bridge.

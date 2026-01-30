@@ -6,3 +6,5 @@ categories: Elevation Worship
 ---
 
 {{< video https://www.youtube.com/embed/JRRbGCyr2Ac >}}
+
+Change in tone from intro to other part.

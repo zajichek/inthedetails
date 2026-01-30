@@ -1,0 +1,10 @@
+---
+title: "Iris"
+author: "Goo Goo Dolls"
+date: "2026-01-30"
+categories: Goo Goo Dolls
+---
+
+{{< video https://www.youtube.com/embed/_HZM0QiuUS8 >}}
+
+Different than album version in the way he sings the chorus.

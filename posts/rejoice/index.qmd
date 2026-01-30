@@ -1,0 +1,10 @@
+---
+title: "Rejoice"
+author: "Julien Baker"
+date: "2026-01-30"
+categories: Julien Baker
+---
+
+{{< video https://www.youtube.com/embed/CXZG6-3BaKY >}}
+
+She holds the "Rejoice" at the end of the song which adds so much more power and declaration to it than in the album version (see [2:58](https://youtu.be/CXZG6-3BaKY?t=179)).
