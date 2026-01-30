@@ -1,6 +1,6 @@
 ---
-title: "Jireh / How He Loves / Worthy"
-author: "Justin Bieber / Elevation Worship / Maverick City"
+title: "Jireh"
+author: "Justin Bieber"
 date: "2026-01-29"
 categories:
     - Justin Bieber

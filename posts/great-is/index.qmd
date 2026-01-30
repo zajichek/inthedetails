@@ -1,8 +1,10 @@
 ---
 title: "Great Is"
 author: "Elevation Worship"
-date: "2026-01-29"
+date: "2026-01-30"
 categories: Elevation Worship
 ---
 
 {{< video https://www.youtube.com/embed/Q9WJCOIbfFs >}}
+
+The chorus of this song is like a forceful anthem. It takes you into the bridge transition, which also occurs at the end of the song, that has this cool off-beat part each measure (see [2:48](https://youtu.be/Q9WJCOIbfFs?t=168)). Finally, if you're a fan of [Coheed and Cambria](https://en.wikipedia.org/wiki/Coheed_and_Cambria), you'll hear that the singer's voice [Jenna Barrientes](https://www.famousbirthdays.com/people/jenna-barrientes.html) sounds a lot like [Claudio Sanchez](https://en.wikipedia.org/wiki/Claudio_Sanchez) in some parts, but almost exactly in the run at [2:44](https://youtu.be/Q9WJCOIbfFs?t=163).

@@ -1,6 +1,6 @@
 ---
 title: "Death Was Arrested"
-author: "North Point / Laura Story"
+author: "North Point"
 date: "2026-01-29"
 categories:
     - North Point
