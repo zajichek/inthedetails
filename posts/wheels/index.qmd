@@ -1,0 +1,10 @@
+---
+title: "Wheels"
+author: "Foo Fighters"
+date: "2026-02-01"
+categories: Foo Fighters
+---
+
+{{< video https://www.youtube.com/embed/52vvt1f3sYw >}}
+
+A song full of meaning and purpose that just brings on a new bout of hope and optimism while reaching deep in your soul. The power that which the music is delivered in combination with the lyrics gives you chills. It is in my top 5 favorite songs of all time.
