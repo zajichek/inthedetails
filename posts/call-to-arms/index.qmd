@@ -1,0 +1,10 @@
+---
+title: "Call To Arms"
+author: "Angels and Airwaves"
+date: "2026-02-04"
+categories: Angels and Airwaves
+---
+
+{{< video https://www.youtube.com/embed/_l3PesbAuLQ >}}
+
+Drum part in bridge.
