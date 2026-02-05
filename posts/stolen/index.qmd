@@ -1,0 +1,10 @@
+---
+title: "Stolen"
+author: "Dashboard Confessional"
+date: "2026-02-05"
+categories: Dashboard Confessional
+---
+
+{{< video https://www.youtube.com/embed/j82FBbgpUy4 >}}
+
+_Dusk and Summer_ is one of the best albums out there.

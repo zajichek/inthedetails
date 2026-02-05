@@ -1,0 +1,10 @@
+---
+title: "History"
+author: "Funeral For A Friend"
+date: "2026-02-05"
+categories: Funeral For A Friend
+---
+
+{{< video https://www.youtube.com/embed/mq35RJXhcdo >}}
+
+The best song on the album.

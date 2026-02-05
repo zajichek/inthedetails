@@ -1,0 +1,10 @@
+---
+title: "Holding On"
+author: "Happy Hour"
+date: "2026-02-05"
+categories: Happy Hour
+---
+
+{{< video https://www.youtube.com/embed/g2bjtelcFX0 >}}
+
+This band as a whole is sort of mysterious and unique in their sound. The singer's voice in this song is incredible, especially in the last chorus (see [3:15](https://youtu.be/g2bjtelcFX0?list=RDg2bjtelcFX0&t=196)).
