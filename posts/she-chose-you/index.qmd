@@ -1,0 +1,8 @@
+---
+title: "She Chose You"
+author: "Perma"
+date: "2026-02-05"
+categories: Perma
+---
+
+{{< video https://www.youtube.com/embed/RJ16STV3T9Y >}}

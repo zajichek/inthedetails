@@ -1,0 +1,10 @@
+---
+title: "All That I've Got"
+author: "The Used"
+date: "2026-02-05"
+categories: The Used
+---
+
+{{< video https://www.youtube.com/embed/tgB_JwcuPg0 >}}
+
+I've been listening to this song pretty consistently since about 2006 (something about this one in particular distinctly reminds me of middle school), and it just never gets old.

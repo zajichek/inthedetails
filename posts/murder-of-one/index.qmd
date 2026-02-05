@@ -1,0 +1,8 @@
+---
+title: "Murder Of One"
+author: "Counting Crows"
+date: "2026-02-05"
+categories: Counting Crows
+---
+
+{{< video https://www.youtube.com/embed/QWj-04CoNuw >}}

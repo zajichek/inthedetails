@@ -1,0 +1,10 @@
+---
+title: "Live Again"
+author: "Grayscale"
+date: "2026-02-05"
+categories: Grayscale
+---
+
+{{< video https://www.youtube.com/embed/XlOnc8gknYQ >}}
+
+The backing chorus at the end.

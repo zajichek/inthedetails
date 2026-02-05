@@ -1,0 +1,8 @@
+---
+title: "Homesick"
+author: "Dayseeker"
+date: "2026-02-05"
+categories: Dayseeker
+---
+
+{{< video https://www.youtube.com/embed/qkWtFw2Rk_U >}}

@@ -1,0 +1,8 @@
+---
+title: "Adelaide"
+author: "Anberlin"
+date: "2026-02-05"
+categories: Anberlin
+---
+
+{{< video https://www.youtube.com/embed/q60dB6PaJyQ >}}
