@@ -1,0 +1,10 @@
+---
+title: "Enamor Me"
+author: "Pianos Become The Teeth"
+date: "2026-02-06"
+categories: Pianos Become The Teeth
+---
+
+{{< video https://www.youtube.com/embed/hHJ9SmhhmOQ >}}
+
+This is one of my favorite albums, but _Enamor Me_ is the song on it that you are looking forward to hearing.

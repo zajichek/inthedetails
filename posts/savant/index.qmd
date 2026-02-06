@@ -1,0 +1,8 @@
+---
+title: "Savant"
+author: "Oceansize"
+date: "2026-02-06"
+categories: Oceansize
+---
+
+{{< video https://www.youtube.com/embed/O-1bOANA-AU >}}
