@@ -1,0 +1,10 @@
+---
+title: "The Source"
+author: "The Contortionist"
+date: "2026-04-24"
+categories: The Contortionist
+---
+
+{{< video https://www.youtube.com/embed/KlCox--Yodg >}}
+
+The voice is mesmerizing. Perfect introduction to the album.

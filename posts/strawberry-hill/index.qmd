@@ -1,0 +1,10 @@
+---
+title: "Strawberry Hill"
+author: "Have Mercy"
+date: "2026-04-24"
+categories: Have Mercy
+---
+
+{{< video https://www.youtube.com/embed/C_hWMFOMJTI >}}
+
+One of my favorite bands ever. This song gives Foo Fighters vibes.
